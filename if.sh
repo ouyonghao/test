@@ -10,7 +10,7 @@ file=$1
 
 if [ -d $file ]
 then
-    echo "$file is a directory"
+    echo "$file is a directory!"
 else
-    echo "$file is  not a directory"
+    echo "$file is  not a directory!"
 fi
